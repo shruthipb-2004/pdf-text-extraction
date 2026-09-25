@@ -1,5 +1,3 @@
-# PDF Text Extraction System
-
 ## 📌 Overview
 
 The PDF Text Extraction System is a Python-based project developed to automatically extract text from PDF documents. The application reads the PDF page by page, extracts available text, and displays the output. It is useful for converting information from PDF documents into editable and processable text.
